@@ -11,7 +11,7 @@ Email:admin@gmail.com
 
 Password:admin
 
-#### This Project is great for beginner who wants to learn laravel.
+#### This Project is a great choice for beginners who want to learn laravel.
 ## How To Use
 ##### 1. Clone the repository with git clone
 ##### 2. Copy .env.example file to .env and edit database credentials there
